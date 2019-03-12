@@ -73,4 +73,12 @@ body {
     border-bottom: 0;
   }
 
-  
+  @media (max-width: 768px){
+    .w-25 {
+        width: 90%;
+    }
+
+    div.content-width{
+        width: 90%;
+    }
+}
